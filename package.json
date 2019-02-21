@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git.com/conventional-changelog/conventional-changelog.git"
+    "url": "https://github.com/louich/conventional-changelog-gitmoji.git"
   },
   "keywords": [
     "conventional-changelog",
@@ -26,9 +26,9 @@
     "index.js"
   ],
   "bugs": {
-    "url": "https://github.com/conventional-changelog/conventional-changelog/issues"
+    "url": "https://github.com/louich/conventional-changelog-gitmoji/issues"
   },
-  "homepage": "https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-gitmoji#readme",
+  "homepage": "https://github.com/louich/conventional-changelog-gitmoji#readme",
   "dependencies": {
     "conventional-changelog-atom": "^2.0.1",
     "q": "^1.5.1"
