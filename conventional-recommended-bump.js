@@ -1,6 +1,6 @@
 'use strict'
 
-const parserOpts = require(`./parser-opts`)
+const parserOpts = require(`conventional-changelog-atom/parser-opts`)
 
 module.exports = {
   parserOpts,
