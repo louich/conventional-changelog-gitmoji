@@ -1,0 +1,36 @@
+{
+  "name": "conventional-changelog-gitmoji",
+  "version": "2.0.1",
+  "description": "conventional-changelog gitmoji preset",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.com/conventional-changelog/conventional-changelog.git"
+  },
+  "keywords": [
+    "conventional-changelog",
+    "atom",
+    "gitmoji",
+    "preset"
+  ],
+  "author": "Louis-Charles Martin",
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "license": "ISC",
+  "files": [
+    "conventional-recommended-bump.js",
+    "index.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/conventional-changelog/conventional-changelog/issues"
+  },
+  "homepage": "https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-gitmoji#readme",
+  "dependencies": {
+    "conventional-changelog-atom": "^2.0.1",
+    "q": "^1.5.1"
+  }
+}
